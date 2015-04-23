@@ -2,6 +2,8 @@
 
 
 ### getRandomIndex(start, end)
+>**随机获取两个数中间的一个值**
+
 > start：起始值（not null）
 
 > end：终止值(not null)
